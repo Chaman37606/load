@@ -1,3 +1,3 @@
-#Show load logo
+# Show load logo
 
-###Display of the Loading logo on css and html
+### Display of the Loading logo on css and html
